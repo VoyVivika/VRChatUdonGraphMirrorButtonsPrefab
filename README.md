@@ -2,6 +2,8 @@
 
 This is a Unity Package that contains a Basic Mirror and Mirror Button script that is made using the Udon Graph. This script does not require the knowledge of Udon and allows you to add as many mirrors as you'd like and auto-hide other mirrors once a mirror is enabled.
 
+This Script Only Requires VRChat SDK 3, Udon Sharp not required, Cyan Triggers not required. All that is Required is SDK 3 (and Udon/Udon Graph which is included in SDK 3)
+
 The very basics is that this object will set 1 object to active, and disable all the others (or disable them all if you set the button to do so)
 
 ## How to use
